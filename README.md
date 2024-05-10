@@ -1,16 +1,6 @@
-# cli
+# Flutter CRYPTO_APP
 
-A new Flutter project.
 
-## Getting Started
+## Overview
+crypto app which show the prices of the crypto arranged with stream builder and has a proper navigation to transfer information from one page to another 
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
